@@ -1,3 +1,6 @@
+## SwimEase Live
+https://swimease.nadp.my.id/
+
 ## About SwimEase
 
 SwimEase adalah website les berenang yang dirancang untuk memberikan kemudahan dalam mengelola pendaftaran dan jadwal kelas berenang. Website ini memiliki landing page dengan fitur utama, yaitu: Beranda untuk informasi umum dan kelas yang tersedia; Jadwal yang menampilkan jadwal kegiatan sesuai kelas pilihan; Tentang yang berisi informasi tentang SwimEase beserta visi dan misi; serta Kontak untuk informasi lebih lanjut seperti email, nomor telepon, lokasi, dan jam operasional. Selain itu, terdapat halaman Login untuk admin dan user.
